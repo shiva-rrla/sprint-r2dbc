@@ -1,0 +1,5 @@
+spring:
+  r2dbc:
+    url: r2dbc:mysql://localhost:3306/example?ssl=false
+    username: example
+    password: Corent1234
